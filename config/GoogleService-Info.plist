@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>138574804358-6e1shf9el2m49v3hv7nhrtqr79sjpstc.apps.googleusercontent.com</string>
+	<string>138574804358-19q07loasf208e0o647b06fh7j4q7d2h.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.138574804358-6e1shf9el2m49v3hv7nhrtqr79sjpstc</string>
+	<string>com.googleusercontent.apps.138574804358-19q07loasf208e0o647b06fh7j4q7d2h</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDRl5T_Q-gtczxxcy5uov5u9KpVQt4w4cI</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.activerides.ios.app</string>
+	<string>com.activerides.taxi.company.app</string>
 	<key>PROJECT_ID</key>
 	<string>active-rides-602d0</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:138574804358:ios:1bee4124ff14c3afa9e807</string>
+	<string>1:138574804358:ios:5a876f90da0918e4a9e807</string>
 	<key>DATABASE_URL</key>
 	<string>https://active-rides-602d0-default-rtdb.firebaseio.com</string>
 </dict>
